@@ -1,5 +1,5 @@
 <h1 align="center">Abdullah Alamri</h1>
-<p align="center"><b>Software &amp; AI Engineer</b> · Jazan, Saudi Arabia</p>
+<p align="center"><b>Software &amp; AI Engineer</b> · Saudi Arabia</p>
 
 <p align="center">
   <a href="https://italamrii.github.io">Portfolio</a> ·
@@ -12,7 +12,7 @@ I design and ship software end to end: a bare-metal operating system in Rust, lo
 
 - 🎓 B.Sc. in Information Systems, Jazan University
 - 💼 Previously IT Engineer at Abaja: tech support, internal tools and automation
-- 🔭 Open to software and AI engineering roles in Saudi Arabia (Jazan, Jeddah, or remote)
+- 🔭 Open to software and AI engineering roles anywhere in Saudi Arabia, on-site or remote
 
 ## Featured projects
 
